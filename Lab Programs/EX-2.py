@@ -30,4 +30,4 @@ def finite_state_automaton(string):
 text = input("Enter a string: ")
 print(finite_state_automaton(text))
 
-#playing studies running better flies cats
+#cab
