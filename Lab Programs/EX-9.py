@@ -23,6 +23,7 @@ sentence = input("Enter a sentence: ").lower().split()
 print("\nWord\t\tPOS Tag")
 print("-" * 35)
 
+#The cats are playing happily
 
 for word in sentence:
     print(f"{word:15}{pos_tag(word)}")
