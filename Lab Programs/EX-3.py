@@ -14,3 +14,5 @@ for word in words:
     stem = stemmer.stem(word)
     lemma = lemmatizer.lemmatize(word)
     print(f"{word:15}{stem:15}{lemma}")
+
+#cat
