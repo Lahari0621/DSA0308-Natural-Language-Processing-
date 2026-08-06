@@ -10,3 +10,5 @@ print("-" * 35)
 
 for word, tag in pos_tags:
     print(f"{word:15}{tag}")
+
+#The cat is sleeping on the mat.
