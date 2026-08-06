@@ -15,3 +15,5 @@ print("-" * 35)
 for word in words:
     stem = stemmer.stem(word)
     print(f"{word:15}{stem}")
+
+#playing running studies happily cats walking
