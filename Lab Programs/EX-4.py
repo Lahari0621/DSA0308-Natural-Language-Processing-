@@ -22,3 +22,5 @@ plural = generate_plural(noun)
 
 print("Singular Noun :", noun)
 print("Plural Noun   :", plural)
+
+#cat
