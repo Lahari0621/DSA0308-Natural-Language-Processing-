@@ -24,3 +24,4 @@ for word in sentence:
         tag = "UNK"  
 
     print(f"{word:15}{tag}")
+#The cat is sleeping on the mat
