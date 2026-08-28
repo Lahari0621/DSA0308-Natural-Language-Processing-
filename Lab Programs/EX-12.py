@@ -91,3 +91,7 @@ if earley_parser(sentence):
     print("Sentence is accepted by the grammar.")
 else:
     print("Sentence is rejected by the grammar.")
+
+"""
+the cat sees a dog
+"""
